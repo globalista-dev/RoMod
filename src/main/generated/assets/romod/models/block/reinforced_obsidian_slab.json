@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "romod:block/reinforced_obsidian",
+    "side": "romod:block/reinforced_obsidian",
+    "top": "romod:block/reinforced_obsidian"
+  }
+}
